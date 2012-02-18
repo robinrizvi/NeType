@@ -19,7 +19,7 @@ void renderaboutpage();
 void renderheader()
 {
 	console::textcolor(4|2);
-	system("cls"); //used instead of clrscr()
+	system("cls"); //used instead of clrscr()ff
 	cout<<"********************************************************************************";
 	cout<<"************************************MINIGAME************************************";
 	cout<<"********************************************************************************";
